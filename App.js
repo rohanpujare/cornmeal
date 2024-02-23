@@ -10,9 +10,7 @@ import Test from './components/Test';
 export default function App() {
   return (
     <SafeAreaView style={styles.container}>
-    <View>
         <Test />
-    </View>
     </SafeAreaView>
   );
 }
